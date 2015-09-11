@@ -5,6 +5,8 @@ For information go to http://termlogic.github.io/
 
 Termlogic - migrating code base here soon
 
+[![Build Status](http://ci.noesisinformatica.com/buildStatus/icon?job=Termlogic)](http://ci.noesisinformatica.com/job/Termlogic/)
+
 <!---
 Build Status
 ------------
